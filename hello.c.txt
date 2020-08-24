@@ -10,7 +10,7 @@ simple hello world
 
 int main(int argc, char **argv)  {
 
-	printf("Hello World!\n);
+	printf("Dalton Carder!\n);
 	printf("Computer engineering"\n);
 	printf("Grant Ohnemus\n");
 	printf("Computer Science");
